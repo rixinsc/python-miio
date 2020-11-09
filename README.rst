@@ -124,6 +124,7 @@ Supported devices
 -  Smartmi Radiant Heater Smart Version (ZA1 version)
 -  Xiaomi Mi Smart Space Heater
 -  Xiaomiyoupin Curtain Controller (Wi-Fi) (lumi.curtain.hagl05)
+-  Scishare coffee maker (scishare.coffee.s1102)
 
 
 *Feel free to create a pull request to add support for new devices as
