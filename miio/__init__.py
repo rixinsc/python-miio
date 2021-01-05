@@ -58,6 +58,7 @@ from miio.vacuumcontainers import (
     VacuumStatus,
 )
 from miio.viomivacuum import ViomiVacuum
+from miio.dreamevacuum import DreameVacuum
 from miio.waterpurifier import WaterPurifier
 from miio.waterpurifier_yunmi import WaterPurifierYunmi
 from miio.wifirepeater import WifiRepeater
